@@ -1,2 +1,2 @@
-# Canva-Sketches
+# Canvas-Sketches
 Experiments in artistic coding.
